@@ -1,6 +1,6 @@
 {
   "name": "manifesty",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Writes a manifest.json for you!",
   "main": "index.js",
   "bin": {
