@@ -1,7 +1,7 @@
 {
   "name": "manifesty",
   "version": "1.0.0",
-  "description": "Writes a manifest.json for you!",
+  "description": "Writes a manifest.json for you! To use simply run manifesty in your apps directory.",
   "main": "index.js",
   "bin": {
     "manifesty": "index.js"
